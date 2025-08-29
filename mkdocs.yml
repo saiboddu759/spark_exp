@@ -1,7 +1,7 @@
 site_name: Spark-Expectations
 site_author: Ashok Singamaneni
 copyright: Nike
-site_description: Spark-Expectations is a framework for running data quality rules inflight of spark job.
+site_description: Spark-Expectations is a framework for running data quality rules inflight of spark job..
 site_url: https://engineering.nike.com/spark-expectations
 repo_name: nike/spark-expectations
 repo_url: https://github.com/Nike-Inc/spark-expectations
